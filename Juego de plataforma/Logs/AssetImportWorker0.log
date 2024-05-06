@@ -180,3 +180,27 @@ Received Import Request.
 Number of updated assets reloaded before import = 0
 Start importing Assets/UniversalRenderPipelineGlobalSettings.asset using Guid(bff77cef94c4f6445bd2dd50cefca70f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b310475ce5187f71b032474721ed930') in 0.030869 seconds 
 Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 1814.386741 seconds.
+  path: Assets/Scripts/Core
+  artifactKey: Guid(22415b0b323d44ef59e4bb108e1718f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Scripts/Core using Guid(22415b0b323d44ef59e4bb108e1718f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ed50010b82192724e1d24966dd91ba3') in 0.007521 seconds 
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.601959 seconds.
+  path: Assets/Scripts/Core/Fuzzy.cs
+  artifactKey: Guid(83505d070f34d4a13807e938baeb0cbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Scripts/Core/Fuzzy.cs using Guid(83505d070f34d4a13807e938baeb0cbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '980bf34957669db210175c6aaaaa862a') in 0.015404 seconds 
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 36.695253 seconds.
+  path: Assets/Scripts/Core/Fuzzy.cs
+  artifactKey: Guid(83505d070f34d4a13807e938baeb0cbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Scripts/Core/Fuzzy.cs using Guid(83505d070f34d4a13807e938baeb0cbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09330b14f9a07b0ea8179f48c9bda954') in 0.002086 seconds 
+Number of asset objects unloaded after import = 0
