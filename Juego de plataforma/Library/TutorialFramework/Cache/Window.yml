@@ -13,16 +13,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CurrentView: 
-  PreviousView: 
+  PreviousView: TableOfContent
   DomainReloadOccured: 0
   IsOpen: 0
   AreTestsRunning: 0
-  CurrentTutorial: {fileID: 0}
+  CurrentTutorial: {fileID: 11400000, guid: 5d0306ad1c1d347ed8eb91190a9e45c2, type: 2}
   PlayModeChanging: 0
-  ActiveScenesBeforeTutorialStarted: []
+  ActiveScenesBeforeTutorialStarted:
+  - Active: 1
+    AssetPath: Assets/Scenes/SampleScene.unity
+    WasLoaded: 1
   SceneViewStateBeforeTutorialStarted:
-    In2DMode: 0
-    Orthographic: 0
-    Size: 0
-    Point: {x: 0, y: 0, z: 0}
-    Direction: {x: 0, y: 0, z: 0, w: 0}
+    In2DMode: 1
+    Orthographic: 1
+    Size: 5.3825655
+    Point: {x: 4.2842393, y: 0.40421826, z: -1.2557869}
+    Direction: {x: 0, y: 0, z: 0, w: 1}
