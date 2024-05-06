@@ -17,7 +17,7 @@ MonoBehaviour:
   DomainReloadOccured: 0
   IsOpen: 0
   AreTestsRunning: 0
-  CurrentTutorial: {fileID: 11400000, guid: 5d0306ad1c1d347ed8eb91190a9e45c2, type: 2}
+  CurrentTutorial: {fileID: 11400000, guid: f1296c995c6fc4bcfac81bd7df3e5b18, type: 2}
   PlayModeChanging: 0
   ActiveScenesBeforeTutorialStarted:
   - Active: 1
